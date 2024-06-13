@@ -1,2 +1,2 @@
 # TypeScript
-记录学习TypeScript
+记录学习TypeScript过程
