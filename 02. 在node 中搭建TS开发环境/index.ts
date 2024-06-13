@@ -1,2 +1,4 @@
 let a :number   = 1
-console.log(a);
+let message = '测试'
+console.log(message);
+  
